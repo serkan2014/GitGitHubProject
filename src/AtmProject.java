@@ -12,5 +12,11 @@ public class AtmProject {
         //versiyon5
         System.out.println("Java ogrenmek zevkliymis");
         //versiyon6
+
+        System.out.println("Branch serkan olusturdum.");
+        //versiyon srkn
+        System.out.println("yeni kodlar");
+        //versiyon srkn1
+
     }
 }
