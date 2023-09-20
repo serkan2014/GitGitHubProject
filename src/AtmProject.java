@@ -4,5 +4,7 @@ public class AtmProject {
         //versiyon1
         System.out.println("Java is easy");
         //versiyon2
+        System.out.println("Branch serkan olusturdum.");
+        //versiyon srkn
     }
 }
