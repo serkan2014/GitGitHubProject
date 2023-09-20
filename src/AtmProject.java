@@ -6,5 +6,7 @@ public class AtmProject {
         //versiyon2
         System.out.println("Branch serkan olusturdum.");
         //versiyon srkn
+        System.out.println("yeni kodlar");
+        //versiyon srkn1
     }
 }
