@@ -20,6 +20,7 @@ public class AtmProject {
         System.out.println("yani is");
         //versiyon srknson, commitlemeden saklamak (stashing)
         System.out.println();
+	//localde degisiklik yaptim
 
     }
 }
