@@ -17,6 +17,9 @@ public class AtmProject {
         //versiyon srkn
         System.out.println("yeni kodlar");
         //versiyon srkn1
+        System.out.println("yani is");
+        //versiyon srknson, commitlemeden saklamak (stashing)
+        System.out.println();
 
     }
 }
