@@ -21,6 +21,7 @@ public class AtmProject {
         //versiyon srknson, commitlemeden saklamak (stashing)
         System.out.println();
 	//localde degisiklik yaptim
+	//remote'da degisiklik yaptim.
 
     }
 }
